@@ -75,7 +75,7 @@ public class Main {
                     System.out.println("Ничья");
                     break;
 
-                }
+                }//123
             }
             System.out.println("Hoeshesh sigratj jesho raz (da, net)?");
             doyouwanttoplay = scanner.next();
